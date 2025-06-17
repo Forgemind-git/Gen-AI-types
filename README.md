@@ -17,11 +17,11 @@ Check out the full tutorial on the ForgeMindAI YouTube channel: [[YouTube Link H
 
 ## To import the workflow to your n8n
 * Go to the 3 dots in the top right corner after creating a workflow.
-* Select import from file and select this file. (Gmail_Classifier.json)
+* Select import from file and select this file. (Gen_AI_types.json)
   ![N8N import](./assets/import_workflow.png)
 
 For any queries on this repo, contact us on the following social handles:
 Youtube: https://www.youtube.com/@forgemindai
-Instagram: https://www.instagram.com/forgemind_ai/reels/
+Instagram: https://www.instagram.com/forgemind_ai/
 
 If you like this repo, star it and follow us for more exciting public repos.
